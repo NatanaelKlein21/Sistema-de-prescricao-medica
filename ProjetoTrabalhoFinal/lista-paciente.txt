@@ -1,0 +1,2 @@
+00706526007;Joao da Silva ;Ambulatorio;01/01/2000;N;N;S;S
+20850064007;Maria Souza;Emergencia;01/01/1990;N;N;N;N

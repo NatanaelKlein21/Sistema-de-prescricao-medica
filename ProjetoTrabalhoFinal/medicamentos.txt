@@ -1,0 +1,2 @@
+123;Dipirona;N;N;N;S
+456;Advil;N;N;N;N
